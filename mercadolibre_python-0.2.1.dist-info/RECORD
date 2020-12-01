@@ -1,0 +1,13 @@
+mercadolibre/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mercadolibre/__pycache__/__init__.cpython-37.pyc,,
+mercadolibre/__pycache__/client.cpython-37.pyc,,
+mercadolibre/__pycache__/decorators.cpython-37.pyc,,
+mercadolibre/__pycache__/exceptions.cpython-37.pyc,,
+mercadolibre/client.py,sha256=ytrpOtGucGScHLzd5ApG67CiZ07g1lWsiTckBRvpHtQ,11362
+mercadolibre/decorators.py,sha256=5pje53mrtbQyiUyX4UifXG_XRTdg1rKJY5hfPUJqf8k,377
+mercadolibre/exceptions.py,sha256=mM5juvbKgqsEKNMg3xuirQug-Npp36veuDikTnEUnjk,173
+mercadolibre_python-0.2.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+mercadolibre_python-0.2.1.dist-info/METADATA,sha256=X-K-oQVGHbO1d0nu_IjpMBSNMa5phrFiudJlLwCgWkI,2801
+mercadolibre_python-0.2.1.dist-info/RECORD,,
+mercadolibre_python-0.2.1.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+mercadolibre_python-0.2.1.dist-info/top_level.txt,sha256=m3RwYAKBfsakB6BZSh3R4AhYtgepVO3XDyNUeJ2c7Oo,13
